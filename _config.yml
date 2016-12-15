@@ -1,8 +1,8 @@
 # Site settings
 title: Adrysson Lima
 description: 'Web Developer'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+url: 'https://adryssonlima.github.io/'
+baseurl: 'https://adryssonlima.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
