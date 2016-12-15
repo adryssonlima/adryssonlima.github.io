@@ -1,8 +1,8 @@
 # Site settings
 title: Adrysson Lima
 description: 'Web Developer'
-url: 'https://adryssonlima.github.io/'
-baseurl: 'https://adryssonlima.github.io/'
+url: 'http://adryssonlima.github.io/'
+baseurl: 'http://adryssonlima.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
