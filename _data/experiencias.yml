@@ -50,9 +50,31 @@
   organization:
     name: Key Manager - Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
     site: "http://www.kemanager.com.br/"
-  location: Fortaleza/CE
+  location: Maracanaú/CE
   description: Desenvolvimento de sistema Web para gerência de chaves de armários
   skills:
     - Programação utilizando PHP, JavaScript, Jquery, Ajax, MySQL, HTML, CSS, Orientação a Objetos
     - "Ferramentas utilizadas: Git, Sublime, MySQL Workbench."
     - "Frameworks utilizados: Yii Framework, Bootstrap."
+
+- role: Administração de Ambiente de Educação a Distância EAD (Moodle)
+  when:
+    begin: 2012-10
+    end: 2013-1
+  organization:
+    name: Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
+    site: "http://ifce.edu.br/"
+  location: Maracanaú/CE
+  description: Postagem de aulas e materiais complementares,cadastro de professores e alunos no sistema,suporte ao ambiente.
+
+- role: Monitoria em Informática Básica
+  when:
+    begin: 2009-2
+    end: 2010-2
+  organization:
+    name: Se Liga (Idear) - Construindo a Cidadania Digital
+    site: "http://seliga.idear.org.br"
+  location: Maracanaú/CE
+  description: Realização de oficinas para inclusão digital usando software livre.
+  skills:
+    - "Oficinas ministradas: LibreOffice Writer, LibreOffice Calc, LibreOffice Impress, Navegação na Web, Criação de blogs e Criação de currículos."
