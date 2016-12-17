@@ -1,0 +1,15 @@
+- degree: Graduação Tecnológica - Análise e Desenvolvimento de Sistemas
+  school:
+    name: Universidade Estácio de Sá
+    site: "http://portal.estacio.br/"
+  when:
+    begin: 2015
+    end: 2017
+
+- degree: Técnico em Informática (Desenvolvimento de Software)
+  school:
+    name: Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
+    site: "http://ifce.edu.br/"
+  when:
+    begin: 2010
+    end: 2013

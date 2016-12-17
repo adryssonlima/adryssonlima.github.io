@@ -1,0 +1,58 @@
+<div>
+    <section>
+      <h3>Experiências</h3>
+      <p>
+          <ul>
+              {% for work in site.data.work %}
+              <li>
+                  <h4>{{ work.role}} | <small>{{ work.organization.name }} ({{work.when.begin}} - {{work.when.end}})</small></h4>
+                  <p>{{work.description}}</p>
+                  <p>
+                      <ul>
+                      {% for skill in work.skills %}
+                          <li><a href="#" title="{{ skill }}"> {{ skill }} </a></li>
+                      {% endfor %}
+                      </ul>
+                  </p>
+              </li>
+              {% endfor %}
+          </ul>
+      </p>
+
+    </section>
+    <section>
+      <h3>Formação Acadêmica</h3>
+      <p>
+          <ul>
+              {% for edu in site.data.formacao %}
+              <li>
+                  <h4>{{ edu.degree}} | <small><a href="{{ edu.school.site }}"> {{ edu.school.name }} </a> ({{edu.when.begin}} - {{edu.when.end}})</small></h4>
+                  <p></p>
+              </li>
+              {% endfor %}
+          </ul>
+      </p>
+    </section>
+    <section>
+      <h3>Cursos Livres</h3>
+      <p>
+          <ul>
+              {% for cursos in site.data.cursos-livres %}
+              <li>
+                  <h4>{{ cursos.degree}} | <small><a href="{{ cursos.school.site }}"> {{ cursos.school.name }} </a> ({{cursos.when.begin}} - {{cursos.when.end}})</small></h4>
+                  <p></p>
+              </li>
+              {% endfor %}
+          </ul>
+      </p>
+    </section>
+    <section>
+      <h3>Habilidades e Ferramentas</h3>
+      <p>
+      {% for skill in site.data.ferramentas %}
+          <a href="#" title="{{ skill }}"> {{ skill }} </a>&nbsp;
+      {% endfor %}
+      </p>
+    </section>
+
+</div><!-- /page-left -->

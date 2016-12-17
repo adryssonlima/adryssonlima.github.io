@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adrysson Lima</title>
-    <description>Web Developer</description>
-    <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//</link>
-    <atom:link href="http://joshgerdes.com/jekyll-uno/jekyll-uno//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 14 Dec 2016 09:42:01 -0300</pubDate>
-    <lastBuildDate>Wed, 14 Dec 2016 09:42:01 -0300</lastBuildDate>
+    <description>Desenvolvedor Web</description>
+    <link>http://adryssonlima.github.io///</link>
+    <atom:link href="http://adryssonlima.github.io///feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 16 Dec 2016 23:51:34 -0300</pubDate>
+    <lastBuildDate>Fri, 16 Dec 2016 23:51:34 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 12:04:23 -0300</pubDate>
-        <link>http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joshgerdes.com/jekyll-uno/jekyll-uno//2016/welcome-to-jekyll/</guid>
+        <link>http://adryssonlima.github.io///2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://adryssonlima.github.io///2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
