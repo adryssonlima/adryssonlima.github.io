@@ -17,20 +17,6 @@
 
 - role: Desenvolvedor Web Freelancer‎
   when:
-    begin: 2016-11
-    end: ATUAL
-  organization:
-    name: Ava XFisica
-    site: "http://www.avaxfisica.com.br/"
-  location: Fortaleza/CE
-  description: Desenvolvimento de Ambiente de Educação a Distância
-  skills:
-    - Programação utilizando Java, Postgresql, Orientação a Objetos, Design Patterns
-    - "Ferramentas utilizadas: Git, Eclipse."
-    - "Frameworks utilizados: JPA, JSF, Primefaces, Hibernate, Tomcat."
-
-- role: Desenvolvedor Web Freelancer‎
-  when:
     begin: 2016-4
     end: ATUAL
   organization:
