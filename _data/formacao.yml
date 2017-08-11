@@ -4,7 +4,7 @@
     site: "http://portal.estacio.br/"
   when:
     begin: 2015
-    end: 2017
+    end: 2018
 
 - degree: Técnico em Informática (Desenvolvimento de Software)
   school:

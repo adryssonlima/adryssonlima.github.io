@@ -1,4 +1,4 @@
-- role: Desenvolvedor Web
+- role: Desenvolvedor Web Full-Stack
   when:
     begin: 2016-04
     end: ATUAL
@@ -8,6 +8,7 @@
   location: Fortaleza/CE
   description: Desenvolvimento de Aplicação Web PABX IP
   skills:
+    - Desenvolvimento de API's
     - Programação utilizando PHP, JavaScript, Jquery, Ajax, Asterisk, MySQL, NodeJs, HTML, CSS, Orientação a Objetos
     - Configuração de ambiente Linux via SSH
     - Integração de sub-sistemas, utilizando APIs.
@@ -17,8 +18,24 @@
 
 - role: Desenvolvedor Web Freelancer‎
   when:
+    begin: 2016-11
+    end: 2017-7
+  organization:
+    name: Class Location - Universidade Estácio de Sá
+    site: "http://github.com/adryssonlima/classlocation"
+  location: Fortaleza/CE
+  description: Desenvolvimento de Sistema Web para gestão de turmas e alocação de disciplinas nas salas e laboratórios da Estácio Campus Parangaba.
+  skills:
+    - "<a href='http://github.com/adryssonlima/classlocation'>Link do Projeto - http://github.com/adryssonlima/classlocation<a>"
+    - "Programação utilizando PHP, JavaScript, Jquery, Ajax, MySQL, NodeJs, HTML, CSS, Orientação a Objetos."
+    - "Utilização de metodologias ágeis (SCRUM)."
+    - "Ferramentas utilizadas - Git, VScode, MySQL Workbench."
+    - "Frameworks utilizados - Yii Framework, Bootstrap, Vue.js"
+
+- role: Desenvolvedor Web Freelancer‎
+  when:
     begin: 2016-4
-    end: ATUAL
+    end: 2017-4
   organization:
     name: SmartQueue - Universidade Estácio de Sá
     site: "http://www.smartqueue.com.br/"
@@ -32,7 +49,7 @@
 - role: Desenvolvedor Web Freelancer‎
   when:
     begin: 2015-8
-    end: ATUAL
+    end: 2016-1
   organization:
     name: Key Manager - Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
     site: "http://www.kemanager.com.br/"
@@ -42,6 +59,20 @@
     - Programação utilizando PHP, JavaScript, Jquery, Ajax, MySQL, HTML, CSS, Orientação a Objetos
     - "Ferramentas utilizadas: Git, Sublime, MySQL Workbench."
     - "Frameworks utilizados: Yii Framework, Bootstrap."
+
+- role: Técnico de Infraestrutura e Suporte em Informática
+  when:
+    begin: 2014-8
+    end: 2015-1
+  organization:
+    name: Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
+    site: "http://ifce.edu.br/"
+  location: Maracanaú/CE
+  description: Técnico de Suporte em Informática
+  skills:
+    - Instalação e manutenção em computadores, notebooks e impressoras.
+    - Instalação e configuração em redes e cabeamento estruturado.
+    - Helpdesk, atendimento ao usuário e cadastramento de ocorrências no sistema.
 
 - role: Administração de Ambiente de Educação a Distância EAD (Moodle)
   when:
