@@ -1,7 +1,21 @@
-- role: Desenvolvedor Web Full-Stack
+- role: Software Developer
+  when:
+    begin: 2018-02
+    end: ATUAL
+  organization:
+    name: CSP - Companhia Siderúrgica do Pecém with IHM Engenharia Powered by Stefanini
+    site: "http://www.cspecem.com/"
+  location: São Gonçalo do Amarante/CE
+  description: Manutenção e desenvolvimento de melhorias MES (Manufacturing Execution System) 
+  skills:
+    - Programação utilizando PL/SQL Oracle, JavaScript, Jquery, Orientação a Objetos
+    - Versionamento com SVN
+    - Utilização de metodologias ágeis (SCRUM)
+
+- role: Full-Stack Developer
   when:
     begin: 2016-04
-    end: ATUAL
+    end: 2018-02
   organization:
     name: Secrelnet
     site: "http://www.secrel.com.br/"
@@ -16,10 +30,10 @@
     - "Ferramentas utilizadas: Git, NetBeans, MySQL Workbench."
     - "Frameworks utilizados: Yii Framework, Bootstrap."
 
-- role: Desenvolvedor Web Freelancer‎
+- role: Web Developer (Voluntário)
   when:
-    begin: 2016-11
-    end: 2017-7
+    begin: 2016-8
+    end: 2017-8
   organization:
     name: Class Location - Universidade Estácio de Sá
     site: "http://github.com/adryssonlima/classlocation"
@@ -32,31 +46,17 @@
     - "Ferramentas utilizadas - Git, VScode, MySQL Workbench."
     - "Frameworks utilizados - Yii Framework, Bootstrap, Vue.js"
 
-- role: Desenvolvedor Web Freelancer‎
-  when:
-    begin: 2016-4
-    end: 2017-4
-  organization:
-    name: SmartQueue - Universidade Estácio de Sá
-    site: "http://www.smartqueue.com.br/"
-  location: Fortaleza/CE
-  description: Desenvolvimento de simulador educativo web para auxílio na aprendizagem de conceitos básicos (Filas e Pilhas).
-  skills:
-    - Programação utilizando PHP, JavaScript, Jquery, Ajax, HTML, CSS, Orientação a Objetos
-    - "Ferramentas utilizadas: Git, Atom."
-    - "Frameworks utilizados: Bootstrap."
-
-- role: Desenvolvedor Web Freelancer‎
+- role: Web Developer (Voluntário)
   when:
     begin: 2015-8
-    end: 2016-1
+    end: 2016-8
   organization:
     name: Key Manager - Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
     site: "http://www.kemanager.com.br/"
   location: Maracanaú/CE
   description: Desenvolvimento de sistema Web para gerência de chaves de armários
   skills:
-    - Programação utilizando PHP, JavaScript, Jquery, Ajax, MySQL, HTML, CSS, Orientação a Objetos
+    - "Programação utilizando PHP, JavaScript, Jquery, Ajax, MySQL, HTML, CSS, Orientação a Objetos"
     - "Ferramentas utilizadas: Git, Sublime, MySQL Workbench."
     - "Frameworks utilizados: Yii Framework, Bootstrap."
 
@@ -76,8 +76,8 @@
 
 - role: Administração de Ambiente de Educação a Distância EAD (Moodle)
   when:
-    begin: 2012-10
-    end: 2013-1
+    begin: 2011-8
+    end: 2014-8
   organization:
     name: Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE
     site: "http://ifce.edu.br/"
@@ -87,7 +87,7 @@
 - role: Monitoria em Informática Básica
   when:
     begin: 2009-2
-    end: 2010-2
+    end: 2010-3
   organization:
     name: Se Liga (Idear) - Construindo a Cidadania Digital
     site: "http://seliga.idear.org.br"
